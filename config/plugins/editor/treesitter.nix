@@ -23,5 +23,6 @@
       };
     };
     hmts.enable = true;
+    highlight-colors.enable = true;
   };
 }
