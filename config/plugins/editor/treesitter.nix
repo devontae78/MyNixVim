@@ -23,6 +23,6 @@
       };
     };
     hmts.enable = true;
-    highlight-colors.enable = true;
+    colorizer.enable = true;
   };
 }
