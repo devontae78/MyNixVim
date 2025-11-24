@@ -73,14 +73,6 @@
           installCargo = true;
           installRustc = true;
         };
-        ltex = {
-          enable = true;
-          settings.dictionary = {
-            "en-US" = [
-              ":/home/devontae78/.local/share/nvim/site/spell/en.utf-8.add"
-            ];
-          };
-        };
         htmx = {
           enable = true;
         };

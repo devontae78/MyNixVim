@@ -19,5 +19,8 @@ _: {
         };
       };
     };
+    lazygit = {
+      enable = true;
+    };
   };
 }

@@ -16,10 +16,12 @@
 
     treesitter-refactor = {
       enable = true;
-      highlightDefinitions = {
-        enable = true;
+      settings = {
+        highlightDefinitions = {
+          enable = true;
 
-        clearOnCursorMove = false;
+          clearOnCursorMove = false;
+        };
       };
     };
     hmts.enable = true;
