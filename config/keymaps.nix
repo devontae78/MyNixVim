@@ -31,6 +31,7 @@
         "<leader><leader>m" = ":messages<CR>";
         "<leader>md" = ":MarkdownPreviewToggle<CR>";
         "<leader>rl" = ":lua require('journal.dev').reload()<CR>";
+        "<leader>gh" = ":LazyGit<CR>";
       };
     visual =
       lib.mapAttrsToList

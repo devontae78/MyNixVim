@@ -16,6 +16,9 @@
         clangd = {
           enable = true;
         };
+        qmlls = {
+          enable = true;
+        };
         tflint.enable = true;
         lua_ls = {
           enable = true;
